@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex
-- 👀 I’m interested in Java and Python programming
-- 🌱 I’m currently learning Python and Pygame
+- 👀 I’m interested in Python programming
+- 🌱 I’m currently learning Python, Pygame and Frameworks like Flask, Django, Tkinter, Folium, Bokeh, Quasar, Pandas
 - 👯 I’m looking to collaborate on Python
 - 💬 Ask me about Anything
 - 📫 How to reach me: https://www.linkedin.com/in/alexandru-dinu-a8199a180/
